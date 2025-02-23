@@ -1,0 +1,38 @@
+ body {
+            background-color: #f0f0f0;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            background: lightblue;
+            padding: 20px;
+            border-radius: 10px;
+            width: 90%;
+            max-width: 600px;
+            margin: auto;
+            margin-top: 20px;
+        }
+        .ticket {
+            background: navy;
+            color: ghostwhite;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        .btn-custom {
+            background: pink;
+            color: black;
+            border: none;
+            padding: 10px;
+            margin-top: 10px;
+        }
+        .btn-custom:hover {
+            background: red;
+            color: ghostwhite;
+        }
+        a {
+            color: black;
+        }
+        h5 {
+            margin-top: 300px;
+        }
